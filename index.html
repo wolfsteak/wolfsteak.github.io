@@ -6,26 +6,32 @@ header-img: "img/home-bg.jpg"
 <ul class="grid effect-2" id="grid">
     {% for post in paginator.posts %}
     <li>
-        <div class="post-preview">
+        <div class="col-sm-3">
             <div class="post-thumbnail">
-                <img class="responsive" src="{{post.thumbnail}}" width="160" >    
+                <img src="{{post.thumbnail}}">    
             </div>
-            <a href="{{ post.url | prepend: site.baseurl }}">
-                
-                
-                <h2 class="post-title">
-                    {{ post.title }}
-                </h2>
-                {% if post.subtitle %}
-                <h3 class="post-subtitle">
-                    {{ post.subtitle }}
-                </h3>
-                {% endif %}
-
-            </a>
-            <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
         </div>
-        <hr>
+        <div class="col-sm-9">
+            <div class="post-preview">
+                
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    
+                    
+                    <h2 class="post-title">
+                        {{ post.title }}
+                    </h2>
+                    {% if post.subtitle %}
+                    <h3 class="post-subtitle">
+                        {{ post.subtitle }}
+                    </h3>
+                    {% endif %}
+
+                </a>
+                <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+            </div>
+             <hr>
+        </div>
+       
     </li>
     {% endfor %}
 </ul>
