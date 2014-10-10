@@ -10,6 +10,9 @@ In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyl
 
 It should look like this:
 `baseurl: ""`
+aaaaaaaa
+aa
+aaaaaaaaaaaaa
 
 ## What's Included
 
