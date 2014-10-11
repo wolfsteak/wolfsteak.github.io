@@ -1,7 +1,13 @@
 .post-thumbnail{
   margin-top: 15px;
   padding-right: 0px;
+
+  margin-bottom: 30px;
 }
-p:nth-child(odd){
-	background: #C0C0C0;
-};
+
+
+hr {
+	margin-top :0px;
+	margin-bottom:5px;
+	
+}
