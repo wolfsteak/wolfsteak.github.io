@@ -6,10 +6,11 @@ header-img: "img/home-bg.jpg"
 <ul class="grid effect-2" id="grid">
     {% for post in paginator.posts %}
     <li>
-        <div class="col-sm-3">
-            <div class="post-thumbnail">
+        <div class="row">
+        <div class="col-sm-3 post-thumbnail">
+            
                 <img src="{{post.thumbnail}}">    
-            </div>
+            
         </div>
         <div class="col-sm-9">
             <div class="post-preview">
@@ -29,9 +30,10 @@ header-img: "img/home-bg.jpg"
                 </a>
                 <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
             </div>
-             <hr>
+            
         </div>
-       
+        </div>
+        <hr>
     </li>
     {% endfor %}
 </ul>
