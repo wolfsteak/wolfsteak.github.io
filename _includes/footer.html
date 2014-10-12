@@ -48,9 +48,13 @@
         </div>
     </div>
 </footer>
-
+<script src="{{ "/js/masonry.pkgd.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/imagesloaded.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/classie.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/AnimOnScroll.js " | prepend: site.baseurl }}"></script>
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/infinite-jekyll.js " | prepend: site.baseurl }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
@@ -58,14 +62,12 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 <!-- Animate scroll -->
-<script src="{{ "/js/masonry.pkgd.min.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/imagesloaded.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/classie.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/AnimOnScroll.js " | prepend: site.baseurl }}"></script>
 <script>
-    new AnimOnScroll( document.getElementById( 'grid' ), {
+ new AnimOnScroll( document.getElementById( 'grid' ), {
         minDuration : 0.2,
         maxDuration : 0.4,
         viewportFactor : 0.2
-    } );
+      } );
+
 </script>
+   
