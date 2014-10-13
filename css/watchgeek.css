@@ -12,3 +12,7 @@ hr {
 	
 }
 
+img.heading {
+	display: block;
+	max-width:100%;
+}
