@@ -16,3 +16,6 @@ img.heading {
 	display: block;
 	max-width:100%;
 }
+li.post {
+	display:block;
+}
