@@ -1,44 +1,28 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
+title:      "Lange, Patek, Nomos hay Rolex?"
+subtitle:   ""
 date:       2014-06-10 12:00:00
-author:     "Start Bootstrap"
+author:     "watchaficionado"
 header-img: "img/post-bg-01.jpg"
 thumbnail: "img/thumbnail4.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+Gửi Snob,
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+Tôi đang tìm mua một chiếc đồng hồ cơ trong tầm giá $20,000. Danh sách rút gọn chỉ còn 2 chiếc: Nomos Lambda và Rolex Cellini Time
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+Chiếc đồng hồ duy nhất trong bộ sưu tập của tôi là một chiếc Grand Seiko. Anh giúp tôi quyết định nhé?
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+Còn nữa, với tầm giá này tôi có nên cân nhắc một chiếc Lange hay Patek không, vì đằng nào tôi cũng sẽ mua thêm đồng hồ trong 3 năm tới.
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+Well, first of all you are to be congratulated on your very good taste; you’ve narrowed your choices in what seems to me a very intelligent fashion, and the fact that the base of your collection is a Grand Seiko speaks to your ability to both trust your own judgement, and formulate sensible views on watches.
+Anh có con mắt được đấy. Qua danh sách rút gọn đó tôi biết anh 
+With that said, however, for the price, I think you would be far better off with a Saxonia wristwatch from A. Lange & Söhne. The NOMOS is not a bad watch but it is, at least for now, a bit of a novelty from a company better known for offering good value than for consistently producing the highest quality execution; the Rolex Cellini is also not a bad watch, but it hardly represents the most compelling proposition from The Crown. And Patek nowadays is a bit too much a victim of its own success; it is too obvious a choice. The Lange, on the other hand, is not only qualitatively unimpeachable, it has a certain obstinate, going-our-own-way character that I appreciate, as one stubborn contrarian deserves another. 
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+Best Value Watch
+My husband will be 50 shortly and I am turning to you for guidance on a watch. I readily admit that this has been more challenging than I initially expected! A brief history: on a trip to Berlin I noticed my husband showed a new enthusiasm for watches, but at that time he decided not to get anything until he learned more on a brand that peaked his interest. A few months later he bought a watch from a different German brand (Archimede pilot chronograph) and, as he explained it to me, he chose a watch with an inexpensive Valjoux movement. He was not prepared to spend thousands of dollars without justification. I wish to surprise him with a serious watch since I know he likes chronographs. I thought of an Omega at first, but after a bit of research, much influenced by your views, I have narrowed to these three chronographs: the JLC master, Glashutte Original Senator or Zenith el Primero. Any guidance to choose among these or to consider another will be greatly welcomed indeed.
+It seems to me that here we must deduce from the evidence available that your husband would prefer something solid, of enduring interest and value, that not only does not come too dear but that actually represents the best possible value. At the risk of arousing howls of invective from readers of mine who have nothing better to do than complain when I give good advice, I am going to repeat what I have often said: at this price range, and in this category, there is the Omega Speedmaster Professional, and there is everything else.
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<a href="#">
-    <img class="img-responsive" src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+The Moonwatch is still affordable (I don’t have to fret over such things but I’ve long since made my peace with the fact that not everyone’s great-grandparents were lucky enough to have made a killing on laudanum and cocaine fortified “Tonics For The Housewife” in the ‘20s) — it is still an attractive design, it is still extremely reliable, and it is uncontaminated with modern pseudo-advances like silicon. I, even I, the Watch Snob, count a Speedmaster amongst the trinkets littering my sock drawer. Go thou, and do likewise.

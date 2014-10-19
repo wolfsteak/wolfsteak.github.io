@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
+title:      "Việt Hương cho biết"
 subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
 date:       2014-06-10 12:00:00
 author:     "Start Bootstrap"
@@ -8,37 +8,6 @@ header-img: "img/post-bg-01.jpg"
 thumbnail: "img/thumbnail4.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+Chia sẻ với VnExpress, Việt Hương cho biết, trong cuộc đời đi diễn 21 năm của chị, thậm chí cả thời còn đi hát nhà hàng, vũ trường, chưa lần nào chị bị bầu sô đối xử tệ bạc như chuyến đi Nhật lưu diễn vừa rồi.
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<a href="#">
-    <img class="img-responsive" src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+Từ ngày 11/10, Việt Hương cùng nhiều nghệ sĩ trong nước và hải ngoại như: Hoài Lâm, vợ chồng ca sĩ Cẩm Ly, Nguyễn Hưng, Như Quỳnh, Khánh Bình, Hồ Quang Hiếu, Hoài Tâm, nhạc sĩ Lê Quang và ban nhạc... được mời đến Nhật tham gia chương trình biểu diễn của cuộc thi Hoa hậu Việt Nam thế giới khu vực châu Á tại Trung tâm văn hóa Kobe, Nhật Bản (Trung tâm Việt show ENC tổ chức). Cuộc thi Hoa hậu Việt Nam Thế giới 2014 bắt đầu từ tháng 5/2014, quy tụ 200 thí sinh đến từ Mỹ, Nhật Bản và Việt Nam. Sau hơn 4 tháng diễn ra, có 9 hoa hậu đăng quang tại các tiểu bang Mỹ và Nhật Bản bước vào đêm trao giải ngày 12/10 tại Tokyo, Nhật Bản.
