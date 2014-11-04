@@ -5,8 +5,8 @@
  */
 
 body {
-  font-family: 'Quiksand';
-  font-weight:800;
+  font-family: 'EB Garamond';
+  font-weight:300;
   font-size: 25px;
   color: #404040;
 }
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto';
+  font-family: 'EB Garamond';
 
   font-weight: 800;
 }
@@ -39,8 +39,13 @@ a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  color: #808080;
-  font-style: italic;
+  color: #000000;
+  width:100%;
+  max-width:100%;
+  background-color: #f9e94c;
+  font-style: normal;
+  border-left:0px;
+  font-size: inherit;
 }
 hr.small {
   max-width: 100px;
